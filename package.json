@@ -1,0 +1,28 @@
+{
+  "name": "react-native-guided-access-control",
+  "version": "1.0.0",
+  "description": "A React Native library to control Guided Access programmatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rruana/react-native-guided-access-control.git"
+  },
+  "keywords": [
+    "react-native",
+    "guided-access",
+    "ios",
+    "mdm"
+  ],
+  "author": "Rancel Ruana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rruana/react-native-guided-access-control/issues"
+  },
+  "homepage": "https://github.com/rruana/react-native-guided-access-control#readme",
+  "peerDependencies": {
+    "react-native": ">=0.60"
+  }
+}
